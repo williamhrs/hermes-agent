@@ -1,0 +1,34 @@
+tests/gateway/test_discord_category_channel_keys.py
+  s_4ccec3ce1a8b59::t_d154a3496eaaa3 210-217,231-235,247-251
+  s_4ccec3ce1a8b59::t_8004d666f1f59b 83-111
+  s_4ccec3ce1a8b59::t_f93e536091f8e5 3,6,10
+  s_4ccec3ce1a8b59::t_55bbdabb359de5 270,277-278
+  s_4ccec3ce1a8b59::t_87cadb98fc7ef1 161-191
+  s_4ccec3ce1a8b59::t_b9f9cdb6c3d63d 192-209,218-226,228,230,236-246,252-269,271-276,279-426
+  s_4ccec3ce1a8b59::t_6a19bc07e775c9 158-160,227,229
+  s_4ccec3ce1a8b59::t_80c7bdfdb62381 11,27,50-51
+plugins/platforms/discord/adapter.py
+  s_4ccec3ce1a8b59::t_569caf6871f426 1199-1205,4864-4874,4876,4884-4889,4892-4894,4917-4925,4928-4934,4938-4940,4948-4974
+  s_4ccec3ce1a8b59::t_3b19882924467d 4975
+website/docs/user-guide/messaging/discord.md
+  s_4ccec3ce1a8b59::t_15685e2025f40b 291
+  s_4ccec3ce1a8b59::t_5290e231a98851 284-285
+  s_4ccec3ce1a8b59::t_9b09d5c82f0675 274
+  s_4ccec3ce1a8b59::t_1707ed80e2a84e 322,326
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "e2f38cb402dc2378b7f801a7f9c7496381f6c33e",
+  "prompts": {},
+  "sessions": {
+    "s_4ccec3ce1a8b59": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ad85fff5-cff7-4a03-a03d-3674571367d7",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
